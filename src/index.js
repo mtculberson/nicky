@@ -19,7 +19,7 @@ reportWebVitals();
 export default function Home() {
   return (
     <div>
-    <h1>Welcome to the website</h1>
+      <p style={{color:"green", textAlign:"center"}}>Hey hows it going I miss bug</p>
     </div>
   );
 }
